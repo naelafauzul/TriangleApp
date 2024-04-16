@@ -81,6 +81,7 @@
 		91102CF82BCE6B4600DD0DE6 = {
 			isa = PBXGroup;
 			children = (
+				91102D342BCE718000DD0DE6 /* codemagic.yaml */,
 				91102D032BCE6B4600DD0DE6 /* TriangleApp */,
 				91102D1A2BCE6B4800DD0DE6 /* TriangleAppTests */,
 				91102D242BCE6B4800DD0DE6 /* TriangleAppUITests */,
@@ -108,7 +109,6 @@
 				91102D0D2BCE6B4800DD0DE6 /* Assets.xcassets */,
 				91102D0F2BCE6B4800DD0DE6 /* LaunchScreen.storyboard */,
 				91102D122BCE6B4800DD0DE6 /* Info.plist */,
-				91102D342BCE718000DD0DE6 /* codemagic.yaml */,
 			);
 			path = TriangleApp;
 			sourceTree = "<group>";
