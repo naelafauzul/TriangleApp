@@ -16,6 +16,7 @@
 		91102D1C2BCE6B4800DD0DE6 /* TriangleAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91102D1B2BCE6B4800DD0DE6 /* TriangleAppTests.swift */; };
 		91102D262BCE6B4800DD0DE6 /* TriangleAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91102D252BCE6B4800DD0DE6 /* TriangleAppUITests.swift */; };
 		91102D282BCE6B4800DD0DE6 /* TriangleAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91102D272BCE6B4800DD0DE6 /* TriangleAppUITestsLaunchTests.swift */; };
+		91102D352BCE718000DD0DE6 /* codemagic.yaml in Resources */ = {isa = PBXBuildFile; fileRef = 91102D342BCE718000DD0DE6 /* codemagic.yaml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		91102D212BCE6B4800DD0DE6 /* TriangleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriangleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		91102D252BCE6B4800DD0DE6 /* TriangleAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleAppUITests.swift; sourceTree = "<group>"; };
 		91102D272BCE6B4800DD0DE6 /* TriangleAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		91102D342BCE718000DD0DE6 /* codemagic.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = codemagic.yaml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				91102D0D2BCE6B4800DD0DE6 /* Assets.xcassets */,
 				91102D0F2BCE6B4800DD0DE6 /* LaunchScreen.storyboard */,
 				91102D122BCE6B4800DD0DE6 /* Info.plist */,
+				91102D342BCE718000DD0DE6 /* codemagic.yaml */,
 			);
 			path = TriangleApp;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				91102D112BCE6B4800DD0DE6 /* LaunchScreen.storyboard in Resources */,
 				91102D0E2BCE6B4800DD0DE6 /* Assets.xcassets in Resources */,
 				91102D0C2BCE6B4600DD0DE6 /* Main.storyboard in Resources */,
+				91102D352BCE718000DD0DE6 /* codemagic.yaml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
