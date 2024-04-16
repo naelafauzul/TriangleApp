@@ -1,10 +1,5 @@
 //
 //  codemagic.yaml
-//  TriangleApp
-//
-//  Created by Naela Fauzul Muna on 16/04/24.
-//
-
 workflows:
   ios-project-debug: # workflow ID
     name: iOS debug # workflow name
