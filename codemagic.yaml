@@ -1,5 +1,3 @@
-//
-//  codemagic.yaml
 workflows:
   ios-project-debug: # workflow ID
     name: iOS debug # workflow name
